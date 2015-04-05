@@ -1,0 +1,5 @@
+G:\GitHub\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.exe.config
+G:\GitHub\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.exe
+G:\GitHub\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.pdb
+G:\GitHub\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.exe
+G:\GitHub\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.pdb
