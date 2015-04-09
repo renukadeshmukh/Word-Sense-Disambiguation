@@ -3,3 +3,6 @@ G:\GitHub\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.exe
 G:\GitHub\XmlExtractor\XmlExtractor\bin\Debug\XmlExtractor.pdb
 G:\GitHub\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.exe
 G:\GitHub\XmlExtractor\XmlExtractor\obj\Debug\XmlExtractor.pdb
+G:\GitHub\Word-Sense-Disambiguation\WSD Using TiMBL\XmlExtractor\bin\Debug\XmlExtractor.exe.config
+G:\GitHub\Word-Sense-Disambiguation\WSD Using TiMBL\XmlExtractor\obj\Debug\XmlExtractor.exe
+G:\GitHub\Word-Sense-Disambiguation\WSD Using TiMBL\XmlExtractor\obj\Debug\XmlExtractor.pdb
