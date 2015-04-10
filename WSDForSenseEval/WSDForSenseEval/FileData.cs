@@ -9,11 +9,12 @@ namespace WSDForSenseEval
 {
     public class FileData
     {
-        public static string Train_File = @"";
-        public static string Test_File = @"";
-        public static string Key_File = @"";
-        public static string Train_Output = @"";
-        public static string Test_Output = @"";
+        public static string Train_File = @"..\..\EnglishLS.train";
+        public static string Test_File = @"..\..\EnglishLS.test";
+        public static string Key_File = @"..\..\EnglishLS.test.key";
+        public static string Train_Output = @"..\..\MyTrain.txt";
+        public static string Test_Output = @"..\..\MyTest.txt";
+        public static string Key_Output = @"..\..\MyKey.xml";
 
         public static void WriteToFile(String input, String fileName)
         {

@@ -11,9 +11,13 @@ namespace WSDForSenseEval
         static void Main(string[] args)
         {
             XMLParser xmlp = new XMLParser();
-            xmlp.CreateTrainFile();
-            xmlp.GenerateKeyXml();
+           // xmlp.GenerateKeyXml();
+
+            //xmlp.CreateTrainFile();
             
+            xmlp.CreateTestFile();
+
+            Console.WriteLine("Ineration finished !!");
         }
     }
 }

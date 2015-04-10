@@ -25,7 +25,7 @@ namespace WSDForSenseEval
 
         public void GenerateKeyXml()
         {
-            string path = FileData.Key_File;
+            string path = FileData.Key_Output;
             // This text is added only once to the file. 
             if (File.Exists(path))
             {
@@ -35,7 +35,7 @@ namespace WSDForSenseEval
             {
                 sw.WriteLine("<home>");
             }
-            String[] lines = File.ReadAllLines(FileData.Test_File);
+            String[] lines = File.ReadAllLines(FileData.Key_File);
             foreach (var line in lines)
             {
                 string[] words = line.Split(' ');
@@ -164,7 +164,7 @@ namespace WSDForSenseEval
         static List<String> GetSenseIdFromKeyFile(string id)
         {
             List<String> senseids = new List<string>();
-            XElement root = XElement.Load(FileData.Key_File);
+            XElement root = XElement.Load(FileData.Key_Output);
             IEnumerable<XElement> keys =
                 from el in root.Elements("key")
                 where string.Equals((string)el.Attribute("id"), id)
