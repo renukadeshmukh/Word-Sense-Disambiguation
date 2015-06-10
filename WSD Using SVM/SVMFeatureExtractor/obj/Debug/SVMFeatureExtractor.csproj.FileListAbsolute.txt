@@ -1,6 +1,0 @@
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\bin\Debug\SVMFeatureExtractor.exe.config
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\obj\Debug\SVMFeatureExtractor.csprojResolveAssemblyReference.cache
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\bin\Debug\SVMFeatureExtractor.exe
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\bin\Debug\SVMFeatureExtractor.pdb
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\obj\Debug\SVMFeatureExtractor.exe
-G:\GitHub\SVMFeatureExtractor\SVMFeatureExtractor\obj\Debug\SVMFeatureExtractor.pdb
