@@ -1,2 +1,0 @@
-# XmlExtractor
-XML Extractor tool
